@@ -7,6 +7,7 @@ Website: https://lootproject.com
 Github: https://github.com/webaverse/loot-assets/tree/main/chest
 
 
+
 ## How to Help
 
 - Add art references and useful resources here
@@ -18,6 +19,14 @@ Github: https://github.com/webaverse/loot-assets/tree/main/chest
     - You can also look for artists that we can commission
 - 3D model and upload to the Github linked above (GLTF is best)
 
+
+### glb models
+
+![](./chest_v1-glb.jpg)
+
+### vox models
+
+![](./chest_v1-vox.png)
 
 
 ---

@@ -12,6 +12,102 @@ Info links:
   - https://tanishq.xyz/tools/syntheticinterface
 
 
+## Chest
+
+![](./chest/chest_v1-glb.jpg)
+![](./chest/chest_v1-vox.png)
+
+- Chain Mail
+- Demon Husk
+- Divine Robe
+- Dragonskin Armor
+- Hard Leather Armor
+- Holy Chestplate
+- Leather Armor
+- Linen Robe
+- Ornate Chestplate
+- Plate Mail
+- Ring Mail
+- Robe
+- Shirt
+- Silk Robe
+- Studded Leather Armor
+
+## Foot
+
+![](./foot/foot_v1-glb.jpg)
+![](./foot/foot_v1-vox.png)
+
+- Chain Boots
+- Demonhide Boots
+  - Fix vox
+- Divine Slippers
+- Dragonskin Boots
+- Greaves
+- Hard Leather Boots
+- Heavy Boots
+  - Fix vox
+- Holy Greaves
+- Leather Boots
+- Linen Shoes
+- Ornate Greaves
+- Shoes
+- Silk Slippers
+- Studded Leather Boots
+- Wool Shoes
+
+
+## Hand
+
+- [ ] Holy Gauntlets 
+- [ ] Ornate Gauntlets 
+- [ ] Gauntlets
+- [ ] Chain Gloves 
+- [ ] Heavy Gloves 
+- [ ] Demon's Hands
+- [ ] Dragonskin Gloves
+- [ ] Studded Leather Gloves
+- [ ] Hard Leather Gloves
+- [ ] Leather Gloves 
+- [ ] Divine Gloves
+- [ ] Silk Gloves
+- [ ] Wool Gloves
+- [ ] Linen Gloves 
+- [ ] Gloves
+
+
+## Head
+
+![](./head/head_v1-glb.jpg)
+![](./head/head-v1-vox.png)
+
+- Ancient Helm
+- Cap
+- Crown
+- Demon Crown
+- Divine Hood
+- Dragon's Crown
+- Full Helm
+- Great Helm
+- Helm
+- Hood
+- Leather Cap
+- Linen Hood
+- Ornate Helm
+- Silk Hood
+- War Cap
+
+
+## Neck
+
+![](./neck/neck_v1-glb.png)
+![](./neck/neck_v1-vox.png)
+
+- Necklace 
+- Amulet 
+- Pendant
+
+
 ## Weapons
 
 - [ ] Warhammer 
@@ -33,41 +129,6 @@ Info links:
 - [ ] Tome 
 - [ ] Book 
 
-## Chest
-
-- [ ] Divine Robe
-- [ ] Silk Robe
-- [ ] Linen Robe 
-- [ ] Robe 
-- [ ] Shirt
-- [ ] Demon Husk 
-- [ ] Dragonskin Armor 
-- [ ] Studded Leather Armor
-- [ ] Hard Leather Armor 
-- [ ] Leather Armor
-- [ ] Holy Chestplate
-- [ ] Ornate Chestplate
-- [ ] Plate Mail 
-- [ ] Chain Mail 
-- [ ] Ring Mail
-
-## Head
-
-- [ ] Ancient Helm 
-- [ ] Ornate Helm
-- [ ] Great Helm 
-- [ ] Full Helm
-- [ ] Helm 
-- [ ] Demon Crown
-- [ ] Dragon's Crown 
-- [ ] War Cap
-- [ ] Leather Cap
-- [ ] Cap
-- [ ] Crown
-- [ ] Divine Hood
-- [ ] Silk Hood
-- [ ] Linen Hood 
-- [ ] Hood 
 
 ## Waist
 
@@ -87,47 +148,6 @@ Info links:
 - [ ] Linen Sash 
 - [ ] Sash 
 
-## Feet
-
-- [ ] Holy Greaves 
-- [ ] Ornate Greaves 
-- [ ] Greaves
-- [ ] Chain Boots
-- [ ] Heavy Boots
-- [ ] Demonhide Boots
-- [ ] Dragonskin Boots 
-- [ ] Studded Leather Boots
-- [ ] Hard Leather Boots 
-- [ ] Leather Boots
-- [ ] Divine Slippers
-- [ ] Silk Slippers
-- [ ] Wool Shoes 
-- [ ] Linen Shoes
-- [ ] Shoes
-
-## Hands
-
-- [ ] Holy Gauntlets 
-- [ ] Ornate Gauntlets 
-- [ ] Gauntlets
-- [ ] Chain Gloves 
-- [ ] Heavy Gloves 
-- [ ] Demon's Hands
-- [ ] Dragonskin Gloves
-- [ ] Studded Leather Gloves
-- [ ] Hard Leather Gloves
-- [ ] Leather Gloves 
-- [ ] Divine Gloves
-- [ ] Silk Gloves
-- [ ] Wool Gloves
-- [ ] Linen Gloves 
-- [ ] Gloves 
-
-## Necklaces
-
-- [ ] Necklace 
-- [ ] Amulet 
-- [ ] Pendant
 
 ### Rings
 
