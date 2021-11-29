@@ -79,7 +79,7 @@ Info links:
 ## Head
 
 ![](./head/head_v1-glb.jpg)
-![](./head/head-v1-vox.png)
+![](./head/head_v1-vox.png)
 
 - Ancient Helm
 - Cap
@@ -108,54 +108,63 @@ Info links:
 - Pendant
 
 
-## Weapons
+### Rings
 
-- [ ] Warhammer 
-- [ ] Quarterstaff
-- [ ] Maul 
-- [ ] Mace 
-- [ ] Club 
-- [ ] Katana 
-- [ ] Falchion
-- [ ] Scimitar
-- [ ] Long Sword
-- [ ] Short Sword 
-- [ ] Ghost Wand
-- [ ] Grave Wand
-- [ ] Bone Wand 
-- [ ] Wand 
-- [ ] Grimoire
-- [ ] Chronicle 
-- [ ] Tome 
-- [ ] Book 
+![](./ring/ring_v1-glb.jpg)
+![](./ring/ring_v1-vox.png)
 
+- Gold Ring
+- Silver Ring
+- Bronze Ring
+- Platinum Ring
+- Titanium Ring
 
 ## Waist
 
-- [ ] Ornate Belt
-- [ ] War Belt 
-- [ ] Plated Belt
-- [ ] Mesh Belt
-- [ ] Heavy Belt 
-- [ ] Demonhide Belt 
-- [ ] Dragonskin Belt
-- [ ] Studded Leather Belt 
-- [ ] Hard Leather Belt
-- [ ] Leather Belt 
-- [ ] Brightsilk Sash
-- [ ] Silk Sash
-- [ ] Wool Sash
-- [ ] Linen Sash 
-- [ ] Sash 
+![](./waist/waist_v1-glb.jpg)
+![](./waist/waist_v1-vox.png)
 
+- Brightsilk Sash
+- Demonhide Belt 
+- Dragonskin Belt
+- Hard Leather Belt
+- Heavy Belt
+- Leather Belt
+- Linen Sash
+- Mesh Belt
+- Ornate Belt
+- Plated Belt
+- Sash
+- Silk Sash
+- Studded Leather Belt
+- War Belt 
+- Wool Sash
+ 
 
-### Rings
+## Weapons
 
-- [ ] Gold Ring
-- [ ] Silver Ring
-- [ ] Bronze Ring
-- [ ] Platinum Ring
-- [ ] Titanium Ring
+![](./weapon/weapon_v1-glb.jpg)
+![](./weapon/weapon_v1-vox.png)
+
+- Bone Wand
+- Book
+- Chronicle
+- Club
+- Falchion
+- Ghost Wand
+- Grave Wand
+- Grimoire
+- Katana
+- Long Sword
+- Mace
+- Maul
+- Quarterstaff
+- Scimitar
+- Short Sword
+- Tome
+- Wand
+- Warhammer 
+
 
 ## Traits
 
