@@ -40,13 +40,11 @@ Info links:
 
 - Chain Boots
 - Demonhide Boots
-  - Fix vox
 - Divine Slippers
 - Dragonskin Boots
 - Greaves
 - Hard Leather Boots
 - Heavy Boots
-  - Fix vox
 - Holy Greaves
 - Leather Boots
 - Linen Shoes
@@ -59,21 +57,24 @@ Info links:
 
 ## Hand
 
-- [ ] Holy Gauntlets 
-- [ ] Ornate Gauntlets 
-- [ ] Gauntlets
-- [ ] Chain Gloves 
-- [ ] Heavy Gloves 
-- [ ] Demon's Hands
-- [ ] Dragonskin Gloves
-- [ ] Studded Leather Gloves
-- [ ] Hard Leather Gloves
-- [ ] Leather Gloves 
-- [ ] Divine Gloves
-- [ ] Silk Gloves
-- [ ] Wool Gloves
-- [ ] Linen Gloves 
-- [ ] Gloves
+![](./hand/hand_v1-glb.jpg)
+![](./hand/hand_v1-vox.jpg)
+
+- Holy Gauntlets 
+- Ornate Gauntlets 
+- Gauntlets
+- Chain Gloves 
+- Heavy Gloves 
+- Demon's Hands
+- Dragonskin Gloves
+- Studded Leather Gloves
+- Hard Leather Gloves
+- Leather Gloves 
+- Divine Gloves
+- Silk Gloves
+- Wool Gloves
+- Linen Gloves 
+- Gloves
 
 
 ## Head
